@@ -1,0 +1,23 @@
+{
+  "name": "exercicio_workflow",
+  "description": "exercício prático do módulo de workflow",
+  "main": "index.js",
+  "authors": [
+    "elton rodrigues"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "npm",
+    "gulp",
+    "bower",
+    "github"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

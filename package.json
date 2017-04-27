@@ -1,0 +1,22 @@
+{
+  "name": "exercicio_workflow",
+  "version": "1.0.0",
+  "description": "exercício prático do módulo de workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "gulp",
+    "bower",
+    "github"
+  ],
+  "author": "elton rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-htmlmin": "^3.0.0"
+  }
+}
